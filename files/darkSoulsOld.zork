@@ -1,0 +1,176 @@
+Anor Londo
+Zork III
+===
+Items:
+EstusFlask,flask
+5
+drink:You drink from the flaming embers, your undead body healing vigorously.
+---
+HomewardBone
+5
+activate:You peer into the homeward bone, seeing a vision of your last visited bonfire.
+---
+SoulOfAProudKnight,soul
+2
+consume:You absorb the essence of the soul, feeling a surge of power..
+---
+TitaniteShard,shard
+5
+upgrade:You use your smithbox to upgrade your weapon!
+---
+DemonTitanite
+7
+upgrade:You attempt at upgrading your chaos weapon, but only a blacksmith can do such a thing.
+---
+CrestOfAstora,crest
+1
+admire:You admire the crest given to you by your faithful friend Solaire.
+praise:In spirit of Solaire, you praise the sun! \[T]/
+---
+Humanity
+1
+absorb:You absorb some humanity, restoring some of your own.
+resonate:You reverse your hollowfication.
+---
+Claymore,sword
+10
+swing:You swing your trusty claymore through the air.
+poke:Unlike most swords, the claymore is also effective at stabbing!
+---
+BlackKnightShield,shield
+10
+block:You raise the heavy shield to defend yourself.
+parry:You parry the air, reflecting nothing.
+---
+EliteArmor,armor
+10
+wear:You don the iconic Dark Souls armor, donned by Oscar, Knight of Astora before you.
+---
+BlackFirebomb,bomb
+5
+throw:You throw the firebomb, black flames errupting in place.
+---
+Soapstone
+5
+summon:You attempt to summon an ally phantom, but none are available.
+write:You write a message for other undead to see in the future, hopefully a helpful one.
+---
+RingOfInvisibility,ring
+2
+wear:You put on the ring! The ring turns invisibile.
+---
+GoldPineResin
+3
+apply:You apply the resin to your blade, granting it lightning damage.
+---
+PurpleMoss,moss
+1
+eat:You eat moss. As silly as it feels, you feel any poison buildup disappearing.
+---
+===
+Rooms:
+Chamber of the Lords
+Contents: EstusFlask,CrestOfAstora
+You find yourself in a grand chamber adorned with golden tapestries. A massive throne sits at the far end, untouched by time. You feel a lingering sense of dread in the air.
+---
+Anor Londo Bridge
+A long, narrow bridge stretches out before you, flanked by tall, ancient towers. The wind howls ominously as you cross, and you can see the vast expanse of Anor Londo beneath you.
+---
+Cathedral of the Deep
+Contents: Claymore,BlackKnightShield,Humanity
+The air is thick with the stench of decay. Shadowy figures move in the periphery, their intentions unclear. The cathedral's towering ceilings are lost in darkness, making you feel small and vulnerable.
+---
+Bell Tower
+Contents: TitaniteShard,GoldPineResin
+You ascend a spiral staircase that leads to a high tower. A gigantic bell looms above you, its bronze surface polished by centuries of ringing. The sound echoes eerily in the stillness.
+---
+Cavern of Ash
+Contents: SoulOfAProudKnight,RingOfInvisibility
+You are in a dark cavern, the walls rough and damp. Ash covers the ground, muffling your footsteps. A sense of despair hangs heavily in the air, as if the souls of the lost linger here.
+---
+Firelink Shrine
+Contents: EliteArmor,Soapstone
+You stand in a tranquil sanctuary, the soft glow of the bonfire inviting you to rest. Ghostly figures wander about, whispering secrets of the past. This place feels safe, yet filled with sorrow.
+---
+The Abyss
+You find yourself at the edge of an endless chasm. A dark void lies before you, and you can hear whispers beckoning from within. The only way forward is to confront your fears.
+---
+Executioner Smough & GodSlayer Ornstein
+Contents: HomewardBone
+The final arena in Anor Londo. The ground here is stained with the remnants of countless battles. Statues of knights stand watch, frozen in time. You can feel the tension in the air as the menacing duo face you, a challenge awaits Will you emergous dead, or victorious?
+---
+Ruined City
+Contents: DemonTitanite,BlackFirebomb
+The remnants of a once-great city lie in disarray. Crumbling buildings and twisted metal create a labyrinth of despair. You hear the distant cries of lost souls echoing through the streets.
+---
+Twilight Grove
+Contents: PurpleMoss
+A serene grove, bathed in twilight, offers a stark contrast to the horrors outside. Ancient trees sway gently, and soft light filters through the leaves. However, the feeling of being watched is palpable.
+---
+===
+Exits:
+Chamber of the Lords
+n
+Anor Londo Bridge
+---
+Anor Londo Bridge
+u
+Chamber of the Lords
+---
+Anor Londo Bridge
+n
+Cathedral of the Deep
+---
+Cathedral of the Deep
+s
+Anor Londo Bridge
+---
+Cathedral of the Deep
+u
+Bell Tower
+---
+Bell Tower
+d
+Cathedral of the Deep
+---
+Chamber of the Lords
+s
+Cavern of Ash
+---
+Cavern of Ash
+n
+Chamber of the Lords
+---
+Cavern of Ash
+u
+Firelink Shrine
+---
+Firelink Shrine
+d
+Cavern of Ash
+---
+Firelink Shrine
+e
+Twilight Grove
+---
+Bell Tower
+u
+Executioner Smough & GodSlayer Ornstein
+---
+Cathedral of the Deep
+d
+Ruined City
+---
+Twilight Grove
+w
+Firelink Shrine
+---
+Ruined City
+n
+Twilight Grove
+---
+Ruined City
+s
+The Abyss
+---
+===

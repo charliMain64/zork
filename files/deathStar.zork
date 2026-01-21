@@ -1,0 +1,137 @@
+The Death Star
+Zork++
+===
+Items:
+Lightsaber,blue
+5
+ignite:It hums with an ethereal blue glow.
+swing:You feel a rush of energy as you slice through the air.
+---
+Sithsaber,red
+5
+ignite:It tears into fruition with a menacing red glow.
+swing:The lightsaber rips through the air, filling you with power.
+---
+StormtrooperHelmet,helmet
+3
+wear:The helmet feels snug but blocks your vision slightly.
+throw:It clatters loudly on the ground.
+---
+Blaster
+15
+overheat:You fire the blaster until it overheats, burning your hand.
+fire:A blaster bolt shoots out with a loud *pew*.
+aim:You steady your aim and feel ready to take on the galaxy.
+---
+BountyHunterJetpack
+20
+wear:The heavy jetpack fits on your back, ready for action.
+hover:You hover in the air for a few moments before touching the ground again.
+fly:You smack into the ceiling and fall back down, foolish one.
+---
+Holocron
+7
+open:A bright blue light reveals hidden knowledge.
+study:You feel your connection to the Force deepen.
+---
+ThermalDetonator,grenade
+12
+activate:It hums menacingly, counting down!
+throw:You toss it just in time before it explodes!
+---
+JediRobes
+2
+wear:The robes feel light and make you feel a bit wiser.
+meditate:You feel the Force flowing through you.
+---
+DeathStarPlans,chip
+2
+examine:You reveal the hidden blueprints of the Death Star.
+upload:You share the plans with the Rebel Alliance.
+---
+===
+Rooms:
+Docking Bay 327
+A large open space with various starfighters parked around. You can hear the hum of engines powering down.
+---
+Cell Block AA-23
+Contents: StormtrooperHelmet
+Rows of cells line the walls. The faint smell of burnt metal lingers in the air.
+---
+Trash Compactor 3263827
+Contents: ThermalDetonator
+The walls feel like they’re slowly closing in. There’s a foul smell of garbage and something unidentifiable.
+---
+Command Bridge
+Contents: Blaster
+A wide view of the galaxy stretches out before you. Computers and monitors line the walls with information readouts.
+---
+Emperor’s Throne Room
+Contents: Holocron,DeathStarPlans
+A dark, eerie room with a single throne facing a giant window overlooking space. A chill runs down your spine.
+---
+Reactor Core
+A deep chasm with seemingly endless drops. Pipes and wires run everywhere, and a faint hum echoes through the room.
+---
+Detention Center
+Contents: JediRobes
+The eerie silence is broken only by the occasional hiss of hydraulics. Cells are tightly locked down here.
+---
+Darth Vader's Meditation Chamber
+Contents: Sithsaber,BountyHunterJetpack
+The room is dimly lit, filled with the ominous presence of the Dark Side. You can see Vader's meditation pod in the center.
+---
+Hangar Control Room
+Bright lights and busy technicians operate here. You feel the rush of activity as TIE fighters launch and return.
+---
+Observation Deck
+Contents: Lightsaber
+A quiet space with a wide glass panel looking out into the void of space. You can see distant stars shining faintly.
+---
+===
+Exits:
+Docking Bay 327
+e
+Hangar Control Room
+---
+Hangar Control Room
+w
+Docking Bay 327
+---
+Docking Bay 327
+n
+Observation Deck
+---
+Observation Deck
+s
+Command Bridge
+---
+Cell Block AA-23
+e
+Detention Center
+---
+Detention Center
+n
+Trash Compactor 3263827
+---
+Command Bridge
+s
+Darth Vader's Meditation Chamber
+---
+Darth Vader's Meditation Chamber
+u
+Emperor’s Throne Room
+---
+Emperor’s Throne Room
+d
+Reactor Core
+---
+Reactor Core
+w
+Detention Center
+---
+Reactor Core
+e
+Docking Bay 327
+---
+===

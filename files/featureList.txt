@@ -1,0 +1,29 @@
+Verbal NPC
+----------
+From the very start of the game, type the command "speak" 3 times. Joe will
+mention quotes with the topics of a ferret, a fart, and gambling. Go "s" two
+times and type the command "speak", Sal will ignore you. Go "s" three more
+times and type the "speak" command 3 times. Q will say that he thinks they
+killed murr and that he didn't want to be a comedian twice.
+
+Attack NPC & Combat
+-------------------
+Some NPCs are labelled as enemies, encountering you on sight upon entering a room with one. An attack NPC has its own health & damage output & will attack you after specific actions that would spend time. For the player, certain items will have varying damage values. Using the appropriate damage action for an item will dish out damage to any enemies in the room with you [i.e. shoot gun]. Additionally, you will not be able to leave once an enemy has pursued you, so make sure you're armed.
+
+At the start of the game, type "health" to check your initial status. Then, make sure to type "take dagger" to take the dagger, the only weapon you can wield so far. Type "n" to go north & the game will notify you that there is an enemy NPC, Murr, in the room that is attacking you. Type "s", the game tells you that you can't leave while the enemy is pursuing you. If you type "take sword", Murr takes the opening to attack you. Typing "health" again, your HP will be significantly lower, but this action will not aggro another hit from Murr. You do not have enough health to type both without dying, but typing "speak" or "trade" lets you know that the enemy NPC has no interest in doing either with you. Finally, type "stab dagger" 3 times to use the dagger against an NPC in the room, in this case Murr, to attack & defeat them. Murr will either mention Guy Fieri, his eyebrows, or mock his punishments, allowing you to move again.
+
+Trade NPC
+---------
+From the very start of the game, type "take dagger" to take the dagger. Then
+type "trade". Joe isn't a trade npc and the game lets you know you can't trade
+with him. Go "n", and type "take glass" to take the dragon glass, receiving a hit from Murr. Type "stab dagger" 3 times to defeat Murr & allow yourself to leave. Go "s" three time. Type "trade" and your Sal's and your inventory will be displayed. Type "dagger" to select the dagger from your inventory and hit enter. Type "gun" to select that as the item you want and press enter. The dagger was worth at least the same amount of credits as the gun and the trade should be successful. Type "trade" again. Type "gun" to select it from your current inventory and hit enter. Type "senzuBean" to select that as the item you want from Sal's inventory. The gun isn't worth as much as the senzuBean and the trade will fail, also letting you know why it failed. Finally type "trade" one last time. Type in "glass,gun" to select the dragonglass, and gun from your inventory and hit enter. Then type "dagger,senzuBean" to select those items as the ones you want from Sal's inventory and hit enter. The trade should be successfull. Type "i" and the dagger and senzuBean should be in your inventory.
+
+Hunger
+------
+Another feature for added difficulty is hunger. You start with max hunger which slowly depletes every room you enter. If your hunger reaches 0, it's over. Certain items will replenish hunger depending on the action taken, most commonly "eat", & the hunger points replenished will vary. Overeating prints a unique message when checking hunger.
+
+From the very start, type "hunger" to see that you are completely full. Type "s" 5 times to arrive at King's Landing where Q resides. Typing "hunger" shows that you've gotten hungrier walking here. Type "take necklace" to pick up the necklace & "trade" to trade with Q. Type "necklace" & then "apple" to recieve the apple. Typing "eat apple" prints a message referencing death note, & typing "hunger" again shows you're full again. IF desired, you can pace up & down 16 times to see the warning message, & another time to starve death.
+
+Verbose Mode
+------------
+The game initally starts as verbose mode, which is the normal default. Typing "verbose off" will turn off verbose mode. This makes it so that exits aren't displayed. Typing "verbose on" will turn verbose mode back on and exits will be displayed. Using the look command will ignore verbose mode and display exits no matter what as that is the point of the look command. From the start of the game, the exits will be displayed as verbose is initally on. Type "verbose off" to turn off verbose mode. Go "s". The exits shouldn't be displayed for the room "North Kingsroad". Go "n", only "Winterfell appears as tha is the starting room and has already been visited. Go "s" twice to "Crossroads Inn". No exits should be shown. Now type "verbose on" to turn back on verbose mode. Go "s" one last time to "South Kingsroad" and the exits should be shown.
